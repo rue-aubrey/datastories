@@ -10,7 +10,6 @@ talk about what you're interested in getting out of the course and what you are 
 
 # Portfolio
 ## King County COVID-19 Cases
-<div class="flourish-embed flourish-chart" data-src="visualisation/11663011"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Visualizing Government Debt
 ## Final Project
