@@ -1,12 +1,13 @@
 # Data Stories
 work for Master of Science in Public Policy @ CMU
 
-# About me
-write a couple paragraphs about yourself!  You can include things like your name, pronouns, the program you're in, or other insights you'd like to share with the class (and more broadly, perhaps future employers!).  You don't have to include any personal information here that you would prefer keeping off of a public website (see the note below)
+# About Me
+Hi, I'm Rue Sellers _(she/her)_. I'm a 23 year old Masters student at  Heinz College of Information Systems and Public Policy. I'm passionate about centering our policy frames on our local communities, prioritizing the needs of those who need most. 
+
+Outside of class, I navigate communicatons for a Pittsburgh mutual aid organization and study algorithmic bias in the criminal legal system. My passion is writing and my expertise is data. Once graduated, I will continue to work at their intersection!
 
 # What I hope to learn
-
-talk about what you're interested in getting out of the course and what you are planning to do once you graduate.  You can include other information you think is helpful to the rest of the class, including a photo if you like - follow the Github markdown guide to learn how.
+I've done visualizations before when doing scientific research, but the graphics used in that field are typically hard to follow. They're dense and technical. From this course, I hope to learn visual communication as a more versatile skill that I can apply in many contexts.
 
 # Portfolio
 ## [King County COVID-19 Cases](https://ruesellers.github.io/datastories/kingcountydemo.html)
