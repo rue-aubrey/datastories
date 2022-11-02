@@ -1,4 +1,4 @@
-# Rue Sellers
+# CMU Project Portfolio
 work for Master of Science in Public Policy @ CMU
 
 # About Me
