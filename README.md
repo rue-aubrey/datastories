@@ -1,4 +1,4 @@
-# Data Stories
+# Rue Sellers
 work for Master of Science in Public Policy @ CMU
 
 # About Me
