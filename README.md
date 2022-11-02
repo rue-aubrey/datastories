@@ -9,7 +9,7 @@ I'm currently working as a student researcher with Daniel Nagin, studying algori
 My passion is writing and my expertise is data. Once graduated, I will continue to work at their intersection!
 
 # What I hope to learn
-I've done visualizations before when doing scientific research, but the graphics used in that field are typically hard to follow. They're dense and technical. From this course, I hope to learn visual communication as a more versatile skill that I can apply in many contexts.
+I've done visualizations before when doing scientific research, but the graphics used in that field are typically hard to follow. They're often dense and technical. From this course, I hope to learn visual communication as a more versatile skill that I can apply in many contexts.
 
 # Portfolio
 ## [King County COVID-19 Cases](https://ruesellers.github.io/datastories/kingcountydemo.html)
