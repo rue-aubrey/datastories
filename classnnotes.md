@@ -26,10 +26,8 @@ The way information is organized on a page matters! Eyes follow a predictable pa
 |**Neutral**|**Least Emphasis**|
 
 ### Werid Brain Effects
-
 **Moiré Effect**- If lines or patterns are too narrow, it can create an unpleasant shimmering effect and the pattern can overwhelm the information
   - Can occur with narrow grid lies or dense bar charts
-
 **Harmann Effect** (the scintillating grid)
   - gray dots in small spaces that distract from the information
   - removing gaps between the squares can make information clearer
