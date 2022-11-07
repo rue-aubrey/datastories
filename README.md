@@ -13,5 +13,5 @@ I've done visualizations before when doing scientific research, but the graphics
 
 # Portfolio
 ## [King County COVID-19 Cases](https://ruesellers.github.io/datastories/kingcountydemo.html)
-## Visualizing Government Debt
+## [Visualizing Government Debt](https://ruesellers.github.io/datastories/govdebt.html)
 ## Final Project
