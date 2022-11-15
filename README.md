@@ -17,4 +17,4 @@ I've done visualizations before when doing scientific research, but the graphics
 
 
 
-<img src="github.com/ruesellers/datastories/picture.jpg">
+<img src="https://github.com/ruesellers/datastories/blob/main/picture.jpg">
