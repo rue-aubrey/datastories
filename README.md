@@ -14,3 +14,6 @@ I've done visualizations before when doing scientific research, but the graphics
 # Portfolio
 ## [Visualizing Government Debt](https://ruesellers.github.io/datastories/govdebt.html)
 ## [Class Demos](https://ruesellers.github.io/datastories/demos.html)
+
+
+![alt text](https://github.com/ruesellers/datastories/picture.jpg?raw=true)
