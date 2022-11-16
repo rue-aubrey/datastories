@@ -23,11 +23,13 @@ Equations for this data disaggregation can be found in the Excel file [here](htt
 ![First Sketch of Redesign](assets/ppisketch.jpg alt="First Sketch of Redesign)
 
 ### Feedback on First Sketch
-Sandhya reviewed my first sketch. They were able to understand the topic of the visualization and understand the nature of the percentages (numerator and denominator). Their main takeaway was that "of women arrested, more are sole caregivers, and more have kids who are still minors."
+Sandhya reviewed my first sketch. They're a neuroscientist.
+
+They were able to understand the topic of the visualization and understand the nature of the percentages (numerator and denominator). Their main takeaway was that "of women arrested, more are sole caregivers, and more have kids who are still minors."
 
 Their confusion came from two parts. First, "Partial Caregiver," where there is another caregiver in the household besides the arrested parent, was unclear to them. Second, they were concerned as to why women had such a higher percentage of minor children compared to men. They also want to know more about how many men and women there are in the data total. I do not have access to this data.
 
-*These questions indicate that they find the visualization coherent and engaging enough to want to learn more.*
+*Key Takeaway*: The topic is engaging enough to move forward, and the stacked bar chart makes things more clear.
 
 ## First Draft
 For this draft, I focused on transferring the sketch to a Flourish chart. As such, it's a bit of a rough draft. I clarified some of the labels, but at this point in the design process, I didn't know how to clarify "Partial Caregiver." I eventually figured this out in the Revised Draft. 
@@ -35,6 +37,20 @@ For this draft, I focused on transferring the sketch to a Flourish chart. As suc
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback on First Draft
+Akira reviewed my first draft. She's a photographer.
+
+Akira was able to identify the primary message of the visualization, that women's incarceration is more likely to lead to an absence of caregivers, and that there is a large chunk of arrests that lead to this.
+
+"Children Over 18" threw her off. It seemed to indicate that the children were being arrested. I asked if "No Children Under 18" was clearer, and she agreed.
+
+Even with the clarification, Akira still suggested that I remove "Children Over 18" as a category to focus on *arrested parents with minor children* rather than all arrested parents.
+
+Like with Sandhya, Akira wanted to see the proportionality between men and women represented in the figure. However, this data is not available to me. If it were, I could scale the total length of each bar to indicate relative total popualtion. However, this would obscure the relative proportions. It would be sending a different message.
+
+*KEY TAKEAWAY*: Either clarify or remove the category of "Children Over 18."
+
+
+
 
 ## Revised Draft
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833797"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
