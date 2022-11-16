@@ -17,7 +17,7 @@ My major concern for this visualization is that subsequent Y variable is a subse
 4. Children are not Minors
 
 ## First Sketch
-<img src="main/docs/assets/ppisketch.jpg" alt="First Sketch of Redesign" class="inline"/>
+<img src="docs/assets/ppisketch.jpg" alt="First Sketch of Redesign" class="inline"/>
 
 
 ## Feedback Round 1
