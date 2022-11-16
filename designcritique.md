@@ -21,7 +21,7 @@ The first stage of critique used the technique from [Good Charts](https://docs.g
 My major concern for this visualization is that subsequent Y variable is a subset of the previous, but there is little indication of this data relationship. I will use the relationship to separate the data into four categories of parental relationship to the child at the time of arrest, which add up to 100% of inmates surveyed who were parents.
 1. Sole Caregiver
 2. Partial Caregiver
-3. Not a Caregiver
+3. Not the Caregiver
 4. N/A, Children are not Minors
 
 Equations for this data disaggregation can be found in the Excel file [here](https://github.com/ruesellers/datastories/raw/main/DATAFORDESIGNCRITIQUE.xlsx).
