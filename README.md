@@ -12,7 +12,7 @@ My passion is writing and my expertise is data. Once graduated, I will continue 
 I've done visualizations before when doing scientific research, but the graphics used in that field are typically hard to follow. They're often dense and technical. From this course, I hope to learn visual communication as a more versatile skill that I can apply in many contexts.
 
 # Portfolio
-## [Graphic Redesign: Prison Policy Initiative](https://ruesellers.github.io/datastories/designcritique/html)
+## [Graphic Redesign: Prison Policy Initiative](https://ruesellers.github.io/datastories/designcritique.html)
 ## [Visualizing Government Debt](https://ruesellers.github.io/datastories/govdebt.html)
 ## [Class Demos](https://ruesellers.github.io/datastories/demos.html)
 
