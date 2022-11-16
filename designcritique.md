@@ -18,11 +18,11 @@ My major concern for this visualization is that subsequent Y variable is a subse
 
 Equations for this data disaggregation can be found in the Excel file [here](https://github.com/ruesellers/datastories/raw/main/DATAFORDESIGNCRITIQUE.xlsx).
 
-## First Sketch
+## The Sketch
 
 ![First Sketch of Redesign](assets/ppisketch.jpg alt="First Sketch of Redesign)
 
-### Feedback on First Sketch
+### Feedback on Sketch
 Reviewer: Sandhya. They're a neuroscientist.
 
 They were able to understand the topic of the visualization and understand the nature of the percentages (numerator and denominator). Their main takeaway was that "of women arrested, more are sole caregivers, and more have kids who are still minors."
