@@ -17,4 +17,4 @@ I've done visualizations before when doing scientific research, but the graphics
 ## [Class Demos](https://ruesellers.github.io/datastories/demos.html)
 
 
-![](https://github.com/ruesellers/datastories/blob/main/picture.jpg)
+
