@@ -22,7 +22,7 @@ My major concern for this visualization is that subsequent Y variable is a subse
 1. Sole Caregiver
 2. Partial Caregiver
 3. Not a Caregiver
-4. Children are not Minors
+4. N/A, Children are not Minors
 
 Equations for this data disaggregation can be found in the Excel file [here](https://github.com/ruesellers/datastories/raw/main/DATAFORDESIGNCRITIQUE.xlsx).
 
