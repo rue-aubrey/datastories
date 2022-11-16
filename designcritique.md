@@ -1,4 +1,4 @@
-# Critique by Design Project
+# Graphic Redesign: Prison Policy Initiative
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11835908"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
