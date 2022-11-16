@@ -2,10 +2,8 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11835908"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed" data-src="story/1746189"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ## Original  Visualization
-The original visualization is used in  *[PBoth sides of the bars: How mass incarceration punishes families](https://www.prisonpolicy.org/blog/2022/08/11/parental_incarceration/)*, a briefing from the Prison Policy Initative.
+The original was used in *[PBoth sides of the bars: How mass incarceration punishes families](https://www.prisonpolicy.org/blog/2022/08/11/parental_incarceration/)*, a briefing from the Prison Policy Initative.
 
 The [visualization itself](https://static.prisonpolicy.org/images/spi_family_separation_sex.webp) was made by Wendy Sawyer in 2022. It's based on state prison data from the 2016 Bureau of Justice Statistics' Survey of Prison Inmates as analyzed by the Prison Policy Initiative.
 
