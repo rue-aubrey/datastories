@@ -1,9 +1,13 @@
 # Critique by Design Project
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11835908"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <div class="flourish-embed" data-src="story/1746189"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Original  Visualization
-The [visualization](https://www.prisonpolicy.org/graphs/spi_family_separation_sex.html) is found on the Prison Policy Initiative website and was made by Wendy Sawyer in 2022. It's based on data from the 2016 Bureau of Justice Statistics' Survey of Prison Inmates analyzed by the Prison Policy Initiative.
+This visualization is used in  *[PBoth sides of the bars: How mass incarceration punishes families](https://www.prisonpolicy.org/blog/2022/08/11/parental_incarceration/)*, a briefing from the Prison Policy Initative.
+
+The [visualization](https://www.prisonpolicy.org/graphs/spi_family_separation_sex.html) is found on the Prison Policy Initiative website and was made by Wendy Sawyer in 2022. It's based on state prison data from the 2016 Bureau of Justice Statistics' Survey of Prison Inmates as analyzed by the Prison Policy Initiative.
 
 I chose this visualization because I am interested in organizations that work to end mass incarceration. Looking through published data visualizations from various organizations in the field, those from the Prison Policy Institute stood out as needing some work. There is a whole series of visualizations from this organization I could have worked with, each with its own areas for improvement. 
 
