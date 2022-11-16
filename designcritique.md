@@ -38,7 +38,9 @@ For this draft, I focused on transferring the sketch to a Flourish chart. As suc
 ## Revised Draft
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833797"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Alternate Revised Draft
-<div class="flourish-embed flourish-chart" data-src="visualisation/11834166"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ## Feedback on Revised Draft
+
+## Alternate Draft with Fewer Categories 
+This graph removes "Children Over 18" from consideration and focuses solely on parents with minor children at time of arrest. This data can be displayed in the original Revised Draft, but this layout  could be helpful if we just want to highlight the outcomes of incarceration for this subgroup.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11834166"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
