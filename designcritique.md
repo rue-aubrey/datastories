@@ -19,6 +19,7 @@ My major concern for this visualization is that subsequent Y variable is a subse
 Equations for this data disaggregation can be found in the Excel file [here](https://github.com/ruesellers/datastories/raw/main/DATAFORDESIGNCRITIQUE.xlsx).
 
 ## First Sketch
+
 ![First Sketch of Redesign](assets/ppisketch.jpg alt="First Sketch of Redesign)
 
 ### Feedback on First Sketch
