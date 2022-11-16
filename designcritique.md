@@ -9,7 +9,7 @@ The [visualization itself](https://static.prisonpolicy.org/images/spi_family_sep
 
 I chose this visualization because I am interested in organizations that work to end mass incarceration. Looking through published data visualizations from various organizations in the field, those from the Prison Policy Institute stood out as needing some work. There is a whole series of visualizations from this organization I could have worked with, each with its own areas for improvement. 
 
-This particular visualization, however, has a key flaw in its presentation. The selected categories of "Parent of a Minor Child," "Lived with Minor Child at Time of Arrest," and "Single Parent Household at Time of Arrest" not only overlap, but fully encompass the next. 
+This particular visualization, however, has a crucil flaw. The selected categories of "Parent of a Minor Child," "Lived with Minor Child at Time of Arrest," and "Single Parent Household at Time of Arrest" not only overlap, but fully encompass the next. 
 
 For example, a "Parent of a Minor Child" will also be counted in "Single Parent Household at Time of Arrest." But this is not indicated in the data. This internal relationship in the data poses unique opportunities for data visualization.
 
