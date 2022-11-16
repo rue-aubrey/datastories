@@ -17,4 +17,4 @@ I've done visualizations before when doing scientific research, but the graphics
 
 
 
-<img src="https://github.com/ruesellers/datastories/blob/main/picture.jpg" class = "center">
+[](https://github.com/ruesellers/datastories/blob/main/picture.jpg)
