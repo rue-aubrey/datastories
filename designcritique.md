@@ -16,7 +16,8 @@ This particular visualization, however, has a key flaw in its presentation. The 
 For example, a "Parent of a Minor Child" will also be counted in "Single Parent Household at Time of Arrest." But this is not indicated in the data. This internal relationship in the data poses unique opportunities for data visualization.
 
 ## Critique 
-[Click here to see the Good Charts Critique](https://docs.google.com/spreadsheets/d/1NJC62tJaYt402543EbG_gNnxd9ZIaAl2qgJeVa-J-0Q/edit?usp=sharing).
+[Click here to see the Good Charts Critique](https://docs.google.com/spreadsheets/d/1NJC62tJaYt402543EbG_gNnxd9ZIaAl2qgJeVa-J-0Q/edit?usp=sharing)
+
 [Click here to see the Data Visualization Effectiveness Profile](https://github.com/ruesellers/datastories/blob/main/Data%20Visualization%20Effectiveness%20Profile.pdf).
 
 My primary concern for this visualization is that subsequent Y variable is a subset of the previous, but there is little indication of this data relationship. I will use the relationship to separate the data into four categories of parental relationship to the child at the time of arrest, which add up to 100% of inmates surveyed who were parents.
