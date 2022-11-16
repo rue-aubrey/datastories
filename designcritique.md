@@ -23,7 +23,7 @@ Equations for this data disaggregation can be found in the Excel file [here](htt
 ![First Sketch of Redesign](assets/ppisketch.jpg alt="First Sketch of Redesign)
 
 ### Feedback on First Sketch
-Sandhya reviewed my first sketch. They're a neuroscientist.
+Reviewer: Sandhya. They're a neuroscientist.
 
 They were able to understand the topic of the visualization and understand the nature of the percentages (numerator and denominator). Their main takeaway was that "of women arrested, more are sole caregivers, and more have kids who are still minors."
 
@@ -37,7 +37,7 @@ For this draft, I focused on transferring the sketch to a Flourish chart. As suc
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback on First Draft
-Akira reviewed my first draft. She's a photographer.
+Reviewer: Akira. She's a photographer.
 
 Akira was able to identify the primary message of the visualization, that women's incarceration is more likely to lead to an absence of caregivers, and that there is a large chunk of arrests that lead to this.
 
@@ -56,8 +56,10 @@ Like with Sandhya, Akira wanted to see the proportionality between men and women
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833797"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback on Revised Draft
+Reviewer: Ibrahim. He's a student in this class with me.
 
-### Alternate Revised Draft with Fewer Categories 
+
+### Final  Draft 
 This graph removes "Children Over 18" from consideration and focuses solely on parents with minor children at time of arrest. This data can be displayed in the original Revised Draft, but this layout  could be helpful if we just want to highlight the outcomes of incarceration for this subgroup.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11834166"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
