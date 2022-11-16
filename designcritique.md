@@ -7,6 +7,12 @@
 ## Original  Visualization
 The [visualization](https://www.prisonpolicy.org/graphs/spi_family_separation_sex.html) is found on the Prison Policy Initiative website and was made by Wendy Sawyer in 2022. It's based on data from the 2016 Bureau of Justice Statistics' Survey of Prison Inmates analyzed by the Prison Policy Initiative.
 
+I chose this visualization because I am interested in organizations that work to end mass incarceration. Looking through published data visualizations from various organizations in the field, those from the Prison Policy Institute stood out as needing some work. There is a whole series of visualizations from this organization I could have worked with, each with its own areas for improvement. 
+
+This particular visualization, however, has a key flaw in its presentation. The selected categories of "Parent of a Minor Child," "Lived with Minor Child at Time of Arrest," and "Single Parent Household at Time of Arrest" not only overlap, but fully encompass the next. 
+
+For example, a "Parent of a Minor Child" will also be counted in "Single Parent Household at Time of Arrest." But this is not indicated in the data. This internal relationship in the data poses unique opportunities for data visualization.
+
 ## Critique 
 The first stage of critique used the technique from [Good Charts](https://docs.google.com/spreadsheets/d/1NJC62tJaYt402543EbG_gNnxd9ZIaAl2qgJeVa-J-0Q/edit?usp=sharing). The second stage used the [Data Visualiztion Effectiveness Profile](https://github.com/ruesellers/datastories/blob/main/Data%20Visualization%20Effectiveness%20Profile.pdf).
 
