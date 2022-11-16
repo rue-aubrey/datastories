@@ -28,7 +28,7 @@ Equations for this data disaggregation can be found in the Excel file [here](htt
 
 ## The Sketch
 
-![First Sketch of Redesign](assets/ppisketch.jpg alt="First Sketch of Redesign")
+![First Sketch of Redesign](assets/ppisketch.jpg)
 
 ### Feedback on Sketch
 Reviewer A. They're a neuroscientist.
