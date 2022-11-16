@@ -16,6 +16,8 @@ My major concern for this visualization is that subsequent Y variable is a subse
 3. Not a Caregiver
 4. Children are not Minors
 
+Equations for this data disaggregation can be found in the Excel file [here](DATAFORDESIGNCRITIQUE.xlsx).
+
 ## First Sketch
 ![First Sketch of Redesign](assets/ppisketch.jpg alt="First Sketch of Redesign)
 
