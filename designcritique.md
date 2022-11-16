@@ -76,3 +76,6 @@ He found "No Children Under 18," confusing, so changing it from "Children Over 1
 This graph removes "Children Over 18"/"No Children Under 18" from consideration and focuses solely on parents with minor children at time of arrest. This data highlights the situations faced by minor children when their parents are arrested, ignoring children who are adults.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11834166"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Final Feedback from Me
+I think the title can be more engaging and provide a clearer explanation of what's going on in the visualization. I need to make the wording extremely clear to avoid what happened with Reviewer C. 
