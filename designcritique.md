@@ -1,6 +1,6 @@
 # Graphic Redesign: Prison Policy Initiative
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11835908"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11836508"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Original  Visualization
 The graphic first appeared in *[Both sides of the bars: How mass incarceration punishes families](https://www.prisonpolicy.org/blog/2022/08/11/parental_incarceration/)*, an August 2022 briefing from the Prison Policy Initative.
@@ -18,7 +18,7 @@ For example, a "Parent of a Minor Child" will also be counted in "Single Parent 
 
 [Click here to see the Data Visualization Effectiveness Profile](https://github.com/ruesellers/datastories/blob/main/Data%20Visualization%20Effectiveness%20Profile.pdf).
 
-My primary concern for this visualization is that subsequent Y variable is a subset of the previous, but there is little indication of this data relationship. I will use the relationship to separate the data into four categories of parental relationship to the child at the time of arrest, which add up to 100% of inmates surveyed who were parents.
+My primary concern for this visualization is that each subsequent column category is a subset of the previous, but there is little indication of this data relationship. I will use the relationship to separate the data into four categories of parental relationship to the child at the time of arrest, which add up to 100% of inmates surveyed who were parents.
 1. Sole Caregiver
 2. Partial Caregiver
 3. Not the Caregiver
