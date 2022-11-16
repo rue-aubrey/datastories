@@ -49,9 +49,6 @@ Like with Sandhya, Akira wanted to see the proportionality between men and women
 
 *KEY TAKEAWAY:* Either clarify or remove the category of "Children Over 18."
 
-
-
-
 ## Revised Draft
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833797"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -61,7 +58,7 @@ Reviewer: Ibrahim. He's a student in this class with me.
 *KEY TAKEAWAY:*
 
 
-### Final  Draft 
+## Final  Draft 
 This graph removes "Children Over 18" from consideration and focuses solely on parents with minor children at time of arrest. This data can be displayed in the original Revised Draft, but this layout  could be helpful if we just want to highlight the outcomes of incarceration for this subgroup.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11834166"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
