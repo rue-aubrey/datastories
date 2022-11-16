@@ -1,8 +1,6 @@
 # Critique by Design Project
 
-
-
-
+<div class="flourish-embed" data-src="story/1746189"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Original  Visualization
 The [visualization](https://www.prisonpolicy.org/graphs/spi_family_separation_sex.html) is found on the Prison Policy Initiative website and was made by Wendy Sawyer in 2022. It's based on data from the 2016 Bureau of Justice Statistics' Survey of Prison Inmates analyzed by the Prison Policy Initiative.
@@ -56,6 +54,8 @@ Like with Reviewer A, she wanted to see the proportionality between men and wome
 *KEY TAKEAWAY:* Either clarify or remove the category of "Children Over 18."
 
 ## Revised Draft
+For this revision, I added data labels, emphasized the legend, changed the title, and made the "Only Caregiver" category more saturated to call attention to it, given it's worst case scenario. I also changed the "Children Over 18" category to "No Children Under 18" to hopefully provide a clearer message.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833797"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback on Revised Draft
