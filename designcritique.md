@@ -8,8 +8,8 @@
 from the Prison Policy Initiative, based on 2016 Bureau of Justice Statistics' Survey of Prison Inmates
 
 ## Critique 
-### [Good Charts Critique](https://docs.google.com/spreadsheets/d/1NJC62tJaYt402543EbG_gNnxd9ZIaAl2qgJeVa-J-0Q/edit?usp=sharing)
-###
+1. [Good Charts Critique](https://docs.google.com/spreadsheets/d/1NJC62tJaYt402543EbG_gNnxd9ZIaAl2qgJeVa-J-0Q/edit?usp=sharing)
+2. [Data Visualiztion Effectiveness Profile](https://github.com/ruesellers/datastories/blob/main/Data%20Visualization%20Effectiveness%20Profile.pdf)
 
 ## First Sketch
 ![](https://github.com/ruesellers/datastories/blob/main/ppisketch.jpg)
