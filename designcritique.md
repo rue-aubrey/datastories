@@ -22,9 +22,9 @@ My major concern for this visualization is that subsequent Y variable is a subse
 ## Feedback Round 1
 Sandhya reviewed my first sketch. They were able to understand the topic of the visualization and understand the nature of the percentages (numerator and denominator). Their main takeaway was that "of women arrested, more are sole caregivers, and more have kids who are still minors."
 
-Their confusion came from two parts. First, "Partial Caregiver," where there is another caregiver in the household besides the arrested parents, was unclear to them. Second, they were concerned as to why women have such a higher percentage of minor children compared to men. This could be explained by survey bias between men and women. They also want to know more about how many men and women there are in the data total. I do not have access to this data.
+Their confusion came from two parts. First, "Partial Caregiver," where there is another caregiver in the household besides the arrested parent, was unclear to them. Second, they were concerned as to why women had such a higher percentage of minor children compared to men. They also want to know more about how many men and women there are in the data total. I do not have access to this data.
 
-*However, these questions indicate that they find the visualization coherent and engaging enough to want to learn more.*
+*These questions indicate that they find the visualization coherent and engaging enough to want to learn more.*
 
 ## First Draft
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
