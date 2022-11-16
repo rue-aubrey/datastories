@@ -80,4 +80,4 @@ This graph removes "Children Over 18"/"No Children Under 18" from consideration 
 ### Final Feedback from Me
 I think the title can be more engaging and provide a clearer explanation of what's going on in the visualization. I need to make the wording extremely clear to avoid what happened with Reviewer C. 
 
-Given the [context]((https://www.prisonpolicy.org/blog/2022/08/11/parental_incarceration/) of the graphics first usage, the final visualization should pique interest and raise questions about mass incarceration.
+Given the [context](https://www.prisonpolicy.org/blog/2022/08/11/parental_incarceration/) of the graphics first usage, the final visualization should pique interest and raise questions about mass incarceration.
