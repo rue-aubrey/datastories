@@ -12,7 +12,7 @@ from the Prison Policy Initiative, based on 2016 Bureau of Justice Statistics' S
 ###
 
 ## First Sketch
-![](https://github.com/ruesellers/datastories/blob/main/picture.jpg)
+![](https://github.com/ruesellers/datastories/blob/main/ppisketch.jpg)
 
 ## Feedback Round 1
 
