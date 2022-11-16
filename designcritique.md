@@ -17,7 +17,7 @@ My major concern for this visualization is that subsequent Y variable is a subse
 4. Children are not Minors
 
 ## First Sketch
-![First Sketch of Redesign](https://github.com/ruesellers/datastories/blob/main/docs/assets/ppisketch.jpg)
+![First Sketch of Redesign](https://github.com/ruesellers/datastories/tree/main/docs/assets/ppisketch.jpg)
 
 ## Feedback Round 1
 Sandhya reviewed my first sketch. They were able to understand the topic of the visualization and understand the nature of the percentages (numerator and denominator). Their main takeaway was that "of women arrested, more are sole caregivers, and more have kids who are still minors."
