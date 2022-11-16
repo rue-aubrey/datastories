@@ -1,6 +1,6 @@
 # Critique by Design Project
 
-## Final Visualization
+
 
 
 
@@ -29,7 +29,7 @@ Equations for this data disaggregation can be found in the Excel file [here](htt
 ![First Sketch of Redesign](assets/ppisketch.jpg alt="First Sketch of Redesign)
 
 ### Feedback on Sketch
-Reviewer: Sandhya. They're a neuroscientist.
+Reviewer A. They're a neuroscientist.
 
 They were able to understand the topic of the visualization and understand the nature of the percentages (numerator and denominator). Their main takeaway was that "of women arrested, more are sole caregivers, and more have kids who are still minors."
 
@@ -43,15 +43,15 @@ For this draft, I focused on transferring the sketch to a Flourish chart. As suc
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback on First Draft
-Reviewer: Akira. She's a photographer.
+Reviewer B. She's a photographer.
 
-Akira was able to identify the primary message of the visualization, that women's incarceration is more likely to lead to an absence of caregivers, and that there is a large chunk of arrests that lead to this.
+She was able to identify the primary message of the visualization, that women's incarceration is more likely to lead to an absence of caregivers, and that there is a large chunk of arrests that lead to this.
 
 "Children Over 18" threw her off. It seemed to indicate that the children were being arrested. I asked if "No Children Under 18" was clearer, and she agreed.
 
-Even with the clarification, Akira still suggested that I remove "Children Over 18" as a category to focus on *arrested parents with minor children* rather than all arrested parents.
+Even with the clarification, she still suggested that I remove "Children Over 18" as a category to focus on *arrested parents with minor children* rather than all arrested parents.
 
-Like with Sandhya, Akira wanted to see the proportionality between men and women represented in the figure. However, this data is not available to me. If it were, I could scale the total length of each bar to indicate relative total popualtion. However, this would obscure the relative proportions. It would be sending a different message.
+Like with Reviewer A, she wanted to see the proportionality between men and women represented in the figure. However, this data is not available to me. If it were, I could scale the total length of each bar to indicate relative total popualtion. However, this would obscure the relative proportions. It would be sending a different message.
 
 *KEY TAKEAWAY:* Either clarify or remove the category of "Children Over 18."
 
@@ -59,12 +59,16 @@ Like with Sandhya, Akira wanted to see the proportionality between men and women
 <div class="flourish-embed flourish-chart" data-src="visualisation/11833797"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback on Revised Draft
-Reviewer: Ibrahim. He's a student in this class with me.
+Reviewer C. He's a student in this class with me.
 
-*KEY TAKEAWAY:*
+This reviewer misunderstood the topic to be more about custody. From what I understand, he thought that the "Caregiver Status of Parents Upon Arrest" was about *assignment* upon arest of parents. He mentioned caregiver status being "awarded" more to women than to men. However, the data is about caregiver status *prior* to arrest, so maybe I should change the wording.
+
+He found "No Children Under 18," confusing, so changing it from "Children Over 18" did not seem to help. 
+
+*KEY TAKEAWAY:* Remove "Children Under 18" to focus solely on Parents with Minor Children. Clarify wording.
 
 
 ## Final  Draft 
-This graph removes "Children Over 18" from consideration and focuses solely on parents with minor children at time of arrest. This data can be displayed in the original Revised Draft, but this layout  could be helpful if we just want to highlight the outcomes of incarceration for this subgroup.
+This graph removes "Children Over 18"/"No Children Under 18" from consideration and focuses solely on parents with minor children at time of arrest. This data highlights the situations faced by minor children when their parents are arrested, ignoring children who are adults.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11834166"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
