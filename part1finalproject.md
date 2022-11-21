@@ -9,13 +9,13 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
 
 ## Outline
 1. **Introduction** of a personal story with my father buying several guns for the first time right after the election of Obama in 2008. 
- * Chart to show this was a trend.
+   * Chart to show this was a trend.
 3. **Basic Question**: How do political shape the purchase of guns? 
- * Example of gun laws and elections affecting gun sales, who do we think is buying?
+   * Example of gun laws and elections affecting gun sales, who do we think is buying?
 4. **New perspective**: when else do gun sales increase?
- * Example of violent events producing increase in gun sales
+   * Example of violent events producing increase in gun sales
 6. **Hook/Thesis**: Evidence of escalating violence
- * Violence leads to gun sales leads to violence
+   * Violence leads to gun sales leads to violence
 7. **Thesis Case 1**: State-level perspective after mass shooting
 8. **Thesis Case 2**: State-level perspective after mass shooting
 9. **Thesis Case 3**: January 6th or 9/11, national-level perspective
