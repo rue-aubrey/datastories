@@ -21,6 +21,7 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
 9. **Thesis Case 3**: January 6th or 9/11, national-level perspective
 10. **Why does this matter** November 20th Trans Day of Rememberance Colorado Shooting
   a. the threat of armed right-wing extremists to marginalized communities
+  b. Rising LGBT hate crimes and rhetoric
 
 ## The Data
 The [dataset](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data) is provided by BuzzFeedNews via their Github repository. They sourced their data from the FBI's National Instant Criminal Background Check System. The data are the number of firearm background checks by month, state, and type from November 1998 to October 2022, parsed from official PDF documents by Jeremy Singer-Vine.
