@@ -20,11 +20,10 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
    * ![Sketch of Violent Events Zoomed in on One State](https://github.com/ruesellers/datastories/blob/main/assets/stateguns.png?raw=true)
 9. **Thesis Case 2**: State-level perspective after mass shooting
 10. **Thesis Case 3**: January 6th or 9/11, national-level perspective
-11. **Why does this matter** November 20th Trans Day of Rememberance Colorado Shooting
+11. **Why does this matter** November 20th Trans Day of Rememberance Colorado Shooting, Club Q
   a. the threat of armed right-wing extremists to marginalized communities
      * Arming of the nation
-     * ![Nation-wide Perspective](https://github.com/ruesellers/datastories/blob/main/assets/gunnation.png?raw=true)
-  b. Rising LGBT hate crimes and rhetoric
+     * ![Nation-wide Perspective](https://github.com/ruesellers/datastories/blob/main/assets/gunnation.png?raw=true)c
 
 ## The Data
 The [dataset](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data) is provided by BuzzFeedNews via their Github repository. They sourced their data from the FBI's National Instant Criminal Background Check System. The data are the number of firearm background checks by month, state, and type from November 1998 to October 2022, parsed from official PDF documents by Jeremy Singer-Vine.
