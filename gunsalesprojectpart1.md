@@ -9,7 +9,7 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
 
 ## Outline
 1. **Introduction** of a personal story with my father buying several guns for the first time right after the election of Obama in 2008. 
-   * Chart to show this was a trend.
+  * ![Sketch of Personal Story](https://github.com/ruesellers/datastories/blob/main/assets/obamaelection.jpg?raw=true)
 3. **Basic Question**: How do political shape the purchase of guns? 
    * Example of gun laws and elections affecting gun sales, who do we think is buying?
 4. **New perspective**: when else do gun sales increase?
