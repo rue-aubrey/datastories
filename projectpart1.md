@@ -10,11 +10,11 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
 ## Outline
 1. **Introduction** of a personal story with my father buying several guns for the first time right after the election of Obama in 2008. 
   * ![Sketch of Personal Story](https://github.com/ruesellers/datastories/blob/main/assets/obamaelection.png?raw=true)
-3. **Basic Question**: How do political shape the purchase of guns? 
+3. **Basic Question**: How central are guns to America's politics? 
    * Example of gun laws and elections affecting gun sales, who do we think is buying?
-4. **New perspective**: when else do gun sales increase? [They do](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369030/)
-   * Example of violent events producing increase in gun sales
-6. **Hook/Thesis**: Evidence of escalating violence
+   * [The gun industry is growing, so is violence](https://www.forbes.com/sites/elizabethmacbride/2018/11/25/americas-gun-business-is-28b-the-gun-violence-business-is-bigger/?sh=187be5ca3ae8)
+4. **New perspective**: when else do gun sales increase?
+   * [*Study*: Evidence of violence escalating gun sales]((ht)tps://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369030/))
    * Violence leads to gun sales leads to violence
 7. **Thesis Case 1**: State-level perspective after mass shooting
    * ![Sketch of Violent Events Zoomed in on One State](https://github.com/ruesellers/datastories/blob/main/assets/stateguns.png?raw=true)
