@@ -13,17 +13,19 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
 3. **Basic Question**: How central are guns to America's politics? 
    * Example of gun laws and elections affecting gun sales, who do we think is buying?
    * [The gun industry is growing, so is violence](https://www.forbes.com/sites/elizabethmacbride/2018/11/25/americas-gun-business-is-28b-the-gun-violence-business-is-bigger/?sh=187be5ca3ae8)
+   * *Visualization about the growth of the gun industry*
+   * *Visualization about the growth of armed militias*
 4. **New perspective**: when else do gun sales increase?
    * [*Study*: Evidence of violence escalating gun sales]((ht)tps://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369030/))
    * Violence leads to gun sales leads to violence
 7. **Thesis Case 1**: State-level perspective after mass shooting
    * ![Sketch of Violent Events Zoomed in on One State](https://github.com/ruesellers/datastories/blob/main/assets/stateguns.png?raw=true)
-9. **Thesis Case 2**: State-level perspective after mass shooting
-10. **Thesis Case 3**: January 6th or 9/11, national-level perspective
-11. **Why does this matter** November 20th Trans Day of Rememberance Colorado Shooting, Club Q
-  a. the threat of armed right-wing extremists to marginalized communities
+9. **Thesis Case 2**: National-level perspective over the past decade
      * Arming of the nation
-     * ![Nation-wide Perspective](https://github.com/ruesellers/datastories/blob/main/assets/gunnation.png?raw=true)c
+     * ![Nation-wide Perspective](https://github.com/ruesellers/datastories/blob/main/assets/gunnation.png?raw=true)
+11. **Thesis Case 3**:*Why does this matter*: November 20th Trans Day of Rememberance Colorado Shooting, Club Q
+  a. the threat of armed right-wing extremists to marginalized communities
+  b. *visualizaiton about hate crimes and rhetoric*
 
 ## The Data
 The [dataset](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data) is provided by BuzzFeedNews via their Github repository. They sourced their data from the FBI's National Instant Criminal Background Check System. The data are the number of firearm background checks by month, state, and type from November 1998 to October 2022, parsed from official PDF documents by Jeremy Singer-Vine.
@@ -39,6 +41,7 @@ I hope to analyze these data along the monthly timescale to understand the relat
 ## Additional Data Options
 1. Hate Crime Data and Hate Rhetoric
 2. State populations for **Gun Sales per Capita**
+3. Data about armed militias
 
 ## Method and Medium
 I will tell my story through Shorthand. It will begin with a more person-centered story and move on to data-specific cases, highlighting specific events and locations and what the data shows happened around that event.
