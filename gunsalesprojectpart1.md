@@ -9,19 +9,23 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
 
 ## Outline
 1. **Introduction** of a personal story with my father buying several guns for the first time right after the election of Obama in 2008. 
-  * ![Sketch of Personal Story](https://github.com/ruesellers/datastories/blob/main/assets/obamaelection.jpg?raw=true)
+  * ![Sketch of Personal Story](https://github.com/ruesellers/datastories/blob/main/assets/obamaelection.png?raw=true)
 3. **Basic Question**: How do political shape the purchase of guns? 
    * Example of gun laws and elections affecting gun sales, who do we think is buying?
-4. **New perspective**: when else do gun sales increase?
+4. **New perspective**: when else do gun sales increase? [They do](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369030/)
    * Example of violent events producing increase in gun sales
 6. **Hook/Thesis**: Evidence of escalating violence
    * Violence leads to gun sales leads to violence
 7. **Thesis Case 1**: State-level perspective after mass shooting
-8. **Thesis Case 2**: State-level perspective after mass shooting
-9. **Thesis Case 3**: January 6th or 9/11, national-level perspective
-10. **Why does this matter** November 20th Trans Day of Rememberance Colorado Shooting
+   * ![Sketch of Violent Events Zoomed in on One State](https://github.com/ruesellers/datastories/blob/main/assets/stateguns.png?raw=true)
+9. **Thesis Case 2**: State-level perspective after mass shooting
+10. **Thesis Case 3**: January 6th or 9/11, national-level perspective
+11. **Why does this matter** November 20th Trans Day of Rememberance Colorado Shooting
   a. the threat of armed right-wing extremists to marginalized communities
+     * Arming of the nation
+     * ![Nation-wide Perspective](https://github.com/ruesellers/datastories/blob/main/assets/gunnation.png?raw=true)
   b. Rising LGBT hate crimes and rhetoric
+     * ![Hate Crime Rhetoric](https://github.com/ruesellers/datastories/blob/main/assets/hatecrimerhetoric.png?raw=true)
 
 ## The Data
 The [dataset](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data) is provided by BuzzFeedNews via their Github repository. They sourced their data from the FBI's National Instant Criminal Background Check System. The data are the number of firearm background checks by month, state, and type from November 1998 to October 2022, parsed from official PDF documents by Jeremy Singer-Vine.
