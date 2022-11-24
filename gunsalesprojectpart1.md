@@ -25,7 +25,6 @@ Today is Trans Day of Rememberance, where members of the LGBT community remember
      * Arming of the nation
      * ![Nation-wide Perspective](https://github.com/ruesellers/datastories/blob/main/assets/gunnation.png?raw=true)
   b. Rising LGBT hate crimes and rhetoric
-     * ![Hate Crime Rhetoric](https://github.com/ruesellers/datastories/blob/main/assets/hatecrimerhetoric.png?raw=true)
 
 ## The Data
 The [dataset](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data) is provided by BuzzFeedNews via their Github repository. They sourced their data from the FBI's National Instant Criminal Background Check System. The data are the number of firearm background checks by month, state, and type from November 1998 to October 2022, parsed from official PDF documents by Jeremy Singer-Vine.
