@@ -38,7 +38,9 @@ Gun Sales = (Long Gun Check + Handgun Check) × 1.1  +  (Multiple-Gun Check) × 
 
 I hope to analyze these data along the monthly timescale to understand the relationship between mass shootings, major political events, legislation, and gun sales – all understood from state-level upwards.
 
-## Initial Sketches
+## Additional Data Options
+1. Hate Crime Data and Hate Rhetoric
+2. State populations for **Gun Sales per Capita**
 
 ## Method and Medium
 I will tell my story through Shorthand. It will begin with a more person-centered story and move on to data-specific cases, highlighting specific events and locations and what the data shows happened around that event.
