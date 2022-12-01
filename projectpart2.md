@@ -48,7 +48,7 @@ First, I showed B the Shorthand draft with the embedded Flourish radar chart fro
 
 We spent time workshopping the title. She suggested that if my story doesn't touch on mass shootings, I should remove it from the subtitle. She also said that the title should focus more on conservative reactionism than "fear and loathing." The title needed to be punchy This is what we ended up with:
 
-<p style="text-align: center;"><b>"Reactionary Armament: Americans and Their Guns </b></p>
+<p style="text-align: center;">"Reactionary Armament: Americans and Their Guns </p>
 
 <p style="text-align: center;"><i> As polarization deepens, some Americans seek comfort in arms." </i></p>
 
