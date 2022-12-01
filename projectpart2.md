@@ -56,16 +56,13 @@ First, I showed B the Shorthand draft with the embedded Flourish radar chart fro
 
 #### Feedback and Changes for Shorthand visualization:
 
-**Feedback:** She said "Prior Years" wasn't specific enough
-**Change:** I said changing it to "2000-2007" might be better, and she agreed.
+| **Feedback**                                                    | **Changes**                                                                             |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| "Prior Years" isn't specific enough.                            | I will change the legend to read "2000-2007" and "2008."                                |
+| She wanted to be able to look more closely at the data.         | I will refine the popup function                                                        |
+| She wanted to be able to see growth in gun sales through years. | I will add a final visualization that animates gun growth nationally from 2000 to 2020. |
 
-**Feedback:** She also wanted to be able to interrogate the graph further to get data on individual years.
-**Change:** I think a popup function would be helpful for that. It would keep the graph uncluttered while allowing people more information if they want it.
-
-**Feedback:** She wanted to be able to see progression through the years, the gradual growth of gun sales.
-**Change:** This gave me an idea for the final plot point in my story. I want to end with a large-scale picture of American gun culture. I should be able to use Flourish to animate the rings, showing the massive growth from 2000 to 2021.
-
-#### Feedback for Tableau (Option 1 from before)
+#### Comparison to Option 1 line chart from before
 She said the line chart was much "simpler," and should be easier for the average person to intuitively understand. However, she qualified that the line chart was less visually interesting. The radar chart from Option 2, by comparison, had a much more "polished" presentation, with a "wow-factor."
 
 In response, I asked which option would look best on a webpage. Specifically, I asked, "Which visualization would be less cluttered and overwhelming when replicated multiple times." She answered Option 2, the radar chart in Flourish. She said, "it communicates the specific message much more clearly."
