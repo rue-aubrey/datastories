@@ -37,11 +37,10 @@ In the end, his recommendation was that I use the line chart. However, when tryi
 
 ## 3. How should I synthesize story and data?
 
-I combined the introduction text and Option 2 graph on Shorthand, shown in the screenshots below. I brought them to B for feedback.
-
 ![image](https://user-images.githubusercontent.com/39631332/204965127-0c5c52d7-5efd-404c-a514-e0c0bbdf13c0.png)
 ![image](https://user-images.githubusercontent.com/39631332/204964963-1ab5f069-5ac0-43fa-be7d-66168aa62c27.png)
 
+I combined the introduction text and Option 2 graph on Shorthand, shown in the screenshots above. I brought them to B for feedback.
 
 ### Interview with B, a 24 year old photographer
 
