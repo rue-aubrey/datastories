@@ -12,7 +12,6 @@ To tell this story, I want to incorporate stories of my dad, a conservative Evan
 
 <p style="text-align: center;"><i>Obama is going to take away our freedom. We have to be able to protect our house. This is the end of America. These memories I have of my father were full of fear – fear that taught me guns keeps us safe. Fear that just so happens to drive sales.</i></p>
 
-
 ## 2. Which kind of visualization should I use?
 There's lots of ways I could do this. I thought about pictogram charts to show the sheer quantity of guns. However, it's hard to shpw time-dependence in the data with pictograms. I ended up with two other approaches.
 
@@ -31,22 +30,54 @@ I used Tableau to make an easy approach, a line chart. Each line represents one 
 ### **Option 2**
 I used Flourish to create radar chart, which I got the idea for when researching the concept of "data densification." Because I need to show mutliple events and their corresponding gun sales, there will be a lot of graphs on the final website. Line graphs are intuitive, but can get overwhelming in large numbers. I hoped a radar chart could present the data more compactly.
 
+<div class="flourish-embed flourish-radar" data-src="visualisation/11998115"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Interview with A, a 22 year old CMU student
+I presented Option 2 to A. This version had no radial axis to show quantity of gun sales. I gave him no context about the story I was telling, and he was confused about what the chart meant. The outwardness of the lines (distance from the origin) didn't carry the immediate meaning of *more* that I wanted. After I explained, he got exactly what I meant. To clarify the purpose of the chart, I decided to add annotations to clarify when Obama's election is on the chart. 
+
+He said, "Highlight the dimensions more. I want to be able to get numbers out of the lines." In response to this critique, I added radial axis lines with boldened labels.
+
+When I showed A Option 1, he liked it much more, saying, "The scale is much clearer and more intuitive." This reflected his earlier opinions that about Option 2 being harder to read for specific quantities. 
+
+#### Takeaway
+In the end, his recommendation was that I use the line chart. However, when trying to include Option 1 in Shorthand, the Tableau embed looked unprofessional and unclear. The black background didn't keep and the axis was cropped short of the full 12 months. This biased me towards Option 2, which is in Flourish.
+
+## 3. How should I synthesize story and data?
+
+I combined the introduction text and Option 2 graph on Shorthand, shown in the screenshots below. I brought them to B for feedback.
+
+![image](https://user-images.githubusercontent.com/39631332/204965127-0c5c52d7-5efd-404c-a514-e0c0bbdf13c0.png)
+![image](https://user-images.githubusercontent.com/39631332/204964963-1ab5f069-5ac0-43fa-be7d-66168aa62c27.png)
+
+
+### Interview with B, a 24 year old photographer
+
+First, I showed B the Shorthand draft with the embedded Flourish radar chart from Option 2. Within the context of the story, the graph made "immediate sense" to her. Afterwards, I showed her Option 1 from before for comparison. 
+
+#### Feedback and Changes for Shorthand visualization:
+
+**Feedback:** She said "Prior Years" wasn't specific enough
+**Change:** I said changing it to "2000-2007" might be better, and she agreed.
+
+**Feedback:** She also wanted to be able to interrogate the graph further to get data on individual years.
+**Change:** I think a popup function would be helpful for that. It would keep the graph uncluttered while allowing people more information if they want it.
+
+**Feedback:** She wanted to be able to see progression through the years, the gradual growth of gun sales.
+**Change:** This gave me an idea for the final plot point in my story. I want to end with a large-scale picture of American gun culture. I should be able to use Flourish to animate the rings, showing the massive growth from 2000 to 2021.
+
+#### Feedback for Tableau (Option 1 from before)
+She said the line chart was much "simpler," and should be easier for the average person to intuitively understand. However, she qualified that the line chart was less visually interesting. The radar chart from Option 2, by comparison, had a much more "polished" presentation, with a "wow-factor."
+
+In response, I asked which option would look best on a webpage. Specifically, I asked, "Which visualization would be less cluttered and overwhelming when replicated multiple times." She answered Option 2, the radar chart in Flourish. She said, "it communicates the specific message much more clearly."
+
+#### Takeaway
+I will continue to refine the radar chart in Tableau, leaving the line chart alone for now.
+
+
+
+
+
+
+## Polishing the Visualization
+
 <div class="flourish-embed flourish-radar" data-src="visualisation/11997932"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-### Feedback from A, a 22 year old CMU student
-I presented an early version Option 2 to A. This version had no radial axis to show quantity of gun sales. I gave him no context about the story I was telling, and he was confused about what the chart meant. The outwardness of the lines (distance from the origin) didn't carry the immediate meaning of *more* that I wanted. After I explained, he got exactly what I wanted. 
-
-He said, "Highlight the dimensions more. I want to be able to get numbers out of the lines." In response to this critique, I added radial axis lines with boldened labels. 
-
-When I showed A an earlier version of Option 1, he liked it much more, saying, "The scale is much clearer and more intuitive." This reflected his earlier opinions that about Option 2 being harder to read for specific quantities. 
-
-In the end, his recommendation was that I use the line chart. I decided to polish both graphs into how they look above - adding in a map to the line graph and trying to make the radar chart easier to understand.
-
-When trying to include Option 1 in Shorthand, the Tableau embed looked unprofessional and unclear. The black background didn't keep and the axis was cropped short of the full 12 months. This biased me towards Option 2, which is in Flourish.
-
-## 3. How do I synthesize story and data?
-
-![image](https://user-images.githubusercontent.com/39631332/204962854-c11fda9f-9594-4c9a-a5a8-912b5841378c.png)
-![image](https://user-images.githubusercontent.com/39631332/204962798-8b92cafe-41dd-416a-a91d-f144288cc43c.png)
-
-### Interview with B 
