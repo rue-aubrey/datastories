@@ -47,6 +47,13 @@ I combined the introduction text and Option 2 graph on Shorthand, shown in the s
 
 First, I showed B the Shorthand draft with the embedded Flourish radar chart from Option 2. Within the context of the story, the graph made "immediate sense" to her. Afterwards, I showed her Option 1 from before for comparison. 
 
+We spent time workshopping the title. She suggested that if my story doesn't touch on mass shootings, I should remove it from the subtitle. She also said that the title should focus more on conservative reactionism than "fear and loathing." The title needed to be punchy This is what we ended up with:
+
+<p style="text-align: center;"><b>Reactionary Armament: Americans and Their Guns </b></p>
+
+<p style="text-align: center;" As polarization deepens, some Americans seek comfort in arms. </i></p>
+
+
 #### Feedback and Changes for Shorthand visualization:
 
 | **Feedback**                                                    | **Changes**                                                                             |
