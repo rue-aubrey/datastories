@@ -33,7 +33,7 @@ He said, "Highlight the dimensions more. I want to be able to get numbers out of
 When I showed A Option 1, he liked it much more, saying, "The scale is much clearer and more intuitive." This reflected his earlier opinions that about Option 2 being harder to read for specific quantities. 
 
 #### Takeaway
-In the end, his recommendation was that I use the line chart. However, when trying to include Option 1 in Shorthand, the Tableau embed looked unprofessional and unclear. The black background didn't keep and the axis was cropped short of the full 12 months. This biased me towards Option 2, which is in Flourish.
+In the end, his recommendation was that I use the line chart. However, when trying to include Option 1 in Shorthand, the Tableau embed looked unprofessional and unclear. The black background didn't stay and the axis was cropped short of the full 12 months. This biased me towards Option 2 which uses Flourish.
 
 ## 3. How should I synthesize story and data?
 
