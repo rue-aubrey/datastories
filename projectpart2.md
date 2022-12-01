@@ -51,7 +51,7 @@ We spent time workshopping the title. She suggested that if my story doesn't tou
 
 <p style="text-align: center;"><b>Reactionary Armament: Americans and Their Guns </b></p>
 
-<p style="text-align: center;" As polarization deepens, some Americans seek comfort in arms. </i></p>
+<p style="text-align: center;"><i> As polarization deepens, some Americans seek comfort in arms. </i></p>
 
 
 #### Feedback and Changes for Shorthand visualization:
