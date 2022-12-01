@@ -6,7 +6,7 @@ With this data story, I'm trying to show how gun sales change in response to lar
 
 One [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369030/) from Callcut et al (2020) shows that mass shootings and gun laws have ramped up gun purchases to levels not seen before, particularly in the last 10 years.  One other [study](https://www.tandfonline.com/doi/abs/10.1080/0735648X.2021.1997787?journalCode=rjcj20) suggests that fear over **"loss of status"** is a much greater motivator of gun purchases than "lack of safety."
 
-To tell this story, I want to incorporate stories of my dad, a conservative Evangelical Virginian. This personal anecdote exemplifies the larger sentiment shown in the data. It gives a face to reactionary factions their increasingly armed response to political change and polarization. What follows are the first two paragraphs of this narrative which introduce the story.
+To tell this story, I want to incorporate stories of my dad, a conservative Evangelical Virginian. This personal anecdote exemplifies the larger sentiment shown in the data. It gives a face to reactionary factions and their increasingly armed response to political change and polarization. What follows are the first two paragraphs of this narrative which introduce the story.
 
 <p style="text-align: center;"><i> It was the Christmas after Obama's historic victory in 2008. I was nine years old. My Virginian father, a staunch conservative and persistent Evangelical, bought his first gun. And his second. And third.</i></p>
 
