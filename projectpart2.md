@@ -6,9 +6,9 @@ One [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369030/) from Callcut 
 
 To tell this story, I want to incorporate stories of my dad, a conservative Evangelical Virginian. This personal anecdote exemplifies the larger sentiment shown in the data. It gives a face to reactionary factions their increasingly armed response to political change and polarization. What follows are the first two paragraphs of this narrative which introduce the story.
 
-<p style="text-align: center;"> <i> It was the Christmas after Obama's historic victory in 2008. I was nine years old. My Virginian father, a staunch conservative and persistent Evangelical, bought his first gun. And his second. And third.
+<span style="font-family:Papyrus; font-size:4em;"> It was the Christmas after Obama's historic victory in 2008. I was nine years old. My Virginian father, a staunch conservative and persistent Evangelical, bought his first gun. And his second. And third.
 
-Obama is going to take away our freedom. We have to be able to protect our house. This is the end of America. These memories I have of my father were full of fear – fear that taught me guns keeps us safe. Fear that just so happens to benefit gun manufacturers.</i> </p>
+Obama is going to take away our freedom. We have to be able to protect our house. This is the end of America. These memories I have of my father were full of fear – fear that taught me guns keeps us safe. Fear that just so happens to benefit gun manufacturers.</span>
 
 
 ## 1. Which kind of visualization should I use?
