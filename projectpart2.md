@@ -64,7 +64,7 @@ We spent time workshopping the title. She suggested that if my story doesn't tou
 #### Comparison to Option 1 line chart from before
 She said the line chart was much "simpler," and should be easier for the average person to intuitively understand. However, she qualified that the line chart was less visually interesting. The radar chart from Option 2, by comparison, had a much more "polished" presentation, with a "wow-factor."
 
-In response, I asked which option would look best on a webpage. Specifically, I asked, "Which visualization would be less cluttered and overwhelming when replicated multiple times." She answered Option 2, the radar chart in Flourish. She said, "it communicates the specific message much more clearly."
+In response, I asked which option would look best on a webpage. Specifically, I asked, "Which visualization would be less cluttered and overwhelming when replicated multiple times." She answered Option 2, the radar chart in Flourish. She said, "it communicates the specific message much more clearly." It seems that the refinements on Option 2 since my interview with A worked.
 
 #### Takeaway
 I will continue to refine the radar chart in Tableau, leaving the line chart alone for now.
