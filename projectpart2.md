@@ -69,7 +69,7 @@ In response, I asked which option would look best on a webpage. Specifically, I 
 #### Takeaway
 I will continue to refine the radar chart in Tableau, leaving the line chart alone for now.
 
-## 4. Expanding the Narrative
+## 4. Expanding the story, a group interview
 
 The story pieces below follow the introduction. They're meant to continue the story, expanding the narrative to the national scale and to more recent years. To get feedback, I presented each to my CMU classmates, all in their 20s.
 
