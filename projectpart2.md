@@ -55,7 +55,7 @@ We spent time workshopping the title. She suggested that if my story doesn't tou
 
 #### Feedback and changes for shorthand visualization:
 
-| **Feedback**                                                    | **Changes**                                                                             |
+| **Feedback**                                                    | **Conclusion**                                                                             |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | "Prior Years" isn't specific enough.                            | I will change the legend to read "2000-2007" and "2008."                                |
 | She wanted to be able to look more closely at the data.         | I will refine the popup function                                                        |
@@ -69,11 +69,46 @@ In response, I asked which option would look best on a webpage. Specifically, I 
 #### Takeaway
 I will continue to refine the radar chart in Tableau, leaving the line chart alone for now.
 
+## 4. Expanding the story, a group interview
+
+The story pieces below follow the introduction. They're meant to continue the story, expanding the narrative to the national scale and to more recent years. To get feedback, I presented each to my CMU classmates, all in their 20s.
+
+### National Perspective
+In this section, I want to highlight that gun sales peaked more in states that voted against Obama and show that Virginia is not an isolated trend.
+![image](https://user-images.githubusercontent.com/39631332/205175042-2cd2c6b1-d6c7-4c5e-9687-14b6590d77f3.png)
+
+| **Feedback** | **Conclusion** |
+|---|---|
+| It's hard to read the legends for each. One person misread 2008 to mean 2009. | Increase font size for legend. |
+| The plots raise questions about why gun sales rise in December. | Maybe include a link to a paper that talks about this. |
+| One person was not sure why Texas and New York were specifically included. <br><br>We didn't share the common knowledge that New York leans D and Texas leans R | Maybe include a map comparison above these plots. <br><br>Map of 2008 Election Results vs. Map of 2008 November Gun Sales compared to prior year  |
+| They wanted to see a comparison of this trend to other elections. | Create a pictogram of gun sale spikes by 21st century election |
+
+### 2020 Highlight
+To support the message that Americans buy guns when there is political instability, I wanted to highlight 2020, a massive year for gun sales. Three major events are correlated with the gun sale spikes, COVID-19 Shutdowns, BLM Protests, and the Biden Election. 
+
+<div class="flourish-embed flourish-radar" data-src="visualisation/12028192"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+| **Feedback** | **Conclusion** |
+|---|---|
+| The "BLM Protest" label is upsidedown, can we flip it around? | Flourish doesn't allow for this, so I will clarify the label in the adjacent paragraphs. |
+| "Does buying guns actually work? Do communities feel safer?"  | This is a story point I don't have the data to explore. But I could find a study to reference. |
+| "Be careful making causal arguments." | In adjacent paragraphs, I will support my claims with literature review and qualify my argument. |
+
+### Two Decade Snapshot
+This animated chart is the last point in my narrative. Using the foundation of the rest of the story, I want to show that polarization and gun sales are getting out of control. It leads into my conclusion that it is not a sustainable pattern.
+
+<div class="flourish-embed flourish-radar" data-src="visualisation/12028293"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### Feedback
+The members of the group interview really liked this visualization and appreciated the way that the colors changed as we approached 2020. There was some brief confusion about where to read time on the graph, but with a brief explanation they understood. I asked if there was anything else that was unclear, and they said that it made sense. However, they wanted to get a clearer picture of growth in a more familiar medium, **maybe a line graph.***
+
+I presented this visualization to Professor Goranson. I asked if it gives a clear enough perspective on two-decade trends. He suggested a bar chart or **line chart** might be better. However, the information provided by this visualization is interesting, so he suggested I include both. 
+
+My last question to Professor Goranson was whether or not having only one kind of graph would hurt my story. He said that the radar chart takes some time to learn, but once the audience learns it, it's a powerful tool to densify data. He said that ultimately, the radar chart is interesting enough to stand alone.
+
+#### Takeaway
+Include a line chart with national sales by year alongside this animated graph in the conlcusion of the data story.
 
 
 
-
-
-## Polishing the Visualization
-
-<div class="flourish-embed flourish-radar" data-src="visualisation/11997932"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
