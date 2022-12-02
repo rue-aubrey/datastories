@@ -95,7 +95,7 @@ To support the message that Americans buy guns when there is political instabili
 | "Does buying guns actually work? Do communities feel safer?"  | This is a story point I don't have the data to explore. But I could find a study to reference. |
 | "Be careful making causal arguments." | In adjacent paragraphs, I will support my claims with literature review and qualify my argument. |
 
-### Two Decade Snapshot
+### Two Decade Animation
 This animated chart is the last point in my narrative. Using the foundation of the rest of the story, I want to show that polarization and gun sales are getting out of control. It leads into my conclusion that it is not a sustainable pattern.
 
 <div class="flourish-embed flourish-radar" data-src="visualisation/12028476"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
