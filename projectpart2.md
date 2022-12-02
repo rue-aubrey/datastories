@@ -81,7 +81,7 @@ In this section, I want to highlight that  that Virginia is not an isolated tren
 |---|---|
 | It's hard to read the legends for each. One person misread 2008 to mean 2009. | Increase font size for legend. |
 | The plots raise questions about why gun sales rise in December. | Maybe include a link to a paper that talks about this. |
-| One person was not sure why Texas and New York were specifically included. <br><br>We didn't share the common knowledge that New York leans D and Texas leans R | Maybe include a map comparison above these plots. <br><br>Map of 2008 Election Results vs. Map of 2008 November Gun Sales compared to prior year  |
+| One person was not sure why Texas and New York were specifically included. We didn't share the common knowledge that New York leans D and Texas leans R | Maybe include a map comparison above these plots. Use a map of 2008 election results vs. a map of 2008 november gun sales compared to prior year  |
 | They wanted to see a comparison of this trend to other elections. | Create a pictogram of gun sale spikes by 21st century election |
 
 ### 2020 Highlight
