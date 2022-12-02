@@ -74,7 +74,7 @@ I will continue to refine the radar chart in Tableau, leaving the line chart alo
 The story pieces below follow the introduction. They're meant to continue the story, expanding the narrative to the national scale and to more recent years. To get feedback, I presented each to my CMU classmates, all in their 20s.
 
 ### National Perspective
-In this section, I want to highlight that gun sales peaked more in states that voted against Obama and show that Virginia is not an isolated trend.
+In this section, I want to highlight that  that Virginia is not an isolated trend, pointing out that gun sales peaked more in states that voted against Obama.
 ![image](https://user-images.githubusercontent.com/39631332/205175042-2cd2c6b1-d6c7-4c5e-9687-14b6590d77f3.png)
 
 | **Feedback** | **Conclusion** |
