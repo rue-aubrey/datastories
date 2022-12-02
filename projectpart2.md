@@ -101,7 +101,7 @@ This animated chart is the last point in my narrative. Using the foundation of t
 <div class="flourish-embed flourish-radar" data-src="visualisation/12028476"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Feedback
-The members of the group interview really liked this visualization and appreciated the way that the colors changed as we approached 2020. There was some brief confusion about where to read time on the graph, but with a brief explanation they understood. I asked if there was anything else that was unclear, and they said that it made sense. However, they wanted to get a clearer picture of growth in a more familiar medium, **maybe a line graph.***
+The members of the group interview really liked this visualization and appreciated the way that the colors changed as we approached 2020. There was some brief confusion about where to read time on the graph, but with a brief explanation they understood. I asked if there was anything else that was unclear, and they said that it made sense. However, they wanted to get a clearer picture of growth in a more familiar medium, **maybe a line graph.**
 
 I presented this visualization to Professor Goranson. I asked if it gives a clear enough perspective on two-decade trends. He suggested a bar chart or **line chart** might be better. However, the information provided by this visualization is interesting, so he suggested I include both. 
 
