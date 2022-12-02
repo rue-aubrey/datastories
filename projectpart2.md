@@ -1,4 +1,4 @@
-# Part II: Drafts and Feedback
+# Part II: Developing the Story
 
 ## 1. What's the story?
 
@@ -12,7 +12,7 @@ To tell this story, I want to incorporate stories of my dad, a conservative Evan
 
 <p style="text-align: center;"><i>Obama is going to take away our freedom. We have to be able to protect our house. This is the end of America. These memories I have of my father were full of fear – fear that taught me guns keeps us safe. Fear that just so happens to drive sales.</i></p>
 
-## 2. Which kind of visualization should I use?
+## 2. What kind of visualization tells it best?
 There's lots of ways I could do this. I thought about pictogram charts to show the sheer quantity of guns. However, it's hard to shpw time-dependence in the data with pictograms. I ended up with two other approaches.
 
 ### **Option 1**:
@@ -35,7 +35,7 @@ When I showed A Option 1, he liked it much more, saying, "The scale is much clea
 #### Takeaway
 In the end, his recommendation was that I use the line chart. However, when trying to include Option 1 in Shorthand, the Tableau embed looked unprofessional and unclear. The black background didn't stay and the axis was cropped short of the full 12 months. This biased me towards Option 2 which uses Flourish.
 
-## 3. How should I synthesize story and data?
+## 3. How should I synthesize the story and data?
 
 ![image](https://user-images.githubusercontent.com/39631332/204965127-0c5c52d7-5efd-404c-a514-e0c0bbdf13c0.png)
 ![image](https://user-images.githubusercontent.com/39631332/204964963-1ab5f069-5ac0-43fa-be7d-66168aa62c27.png)
