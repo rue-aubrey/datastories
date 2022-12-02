@@ -98,7 +98,7 @@ To support the message that Americans buy guns when there is political instabili
 ### Two Decade Snapshot
 This animated chart is the last point in my narrative. Using the foundation of the rest of the story, I want to show that polarization and gun sales are getting out of control. It leads into my conclusion that it is not a sustainable pattern.
 
-<div class="flourish-embed flourish-radar" data-src="visualisation/12028293"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-radar" data-src="visualisation/12028476"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Feedback
 The members of the group interview really liked this visualization and appreciated the way that the colors changed as we approached 2020. There was some brief confusion about where to read time on the graph, but with a brief explanation they understood. I asked if there was anything else that was unclear, and they said that it made sense. However, they wanted to get a clearer picture of growth in a more familiar medium, **maybe a line graph.***
