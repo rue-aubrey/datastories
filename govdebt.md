@@ -1,4 +1,3 @@
-[Home](https://ruesellers.github.io/datastories) <br>
 
 # Government Debt in UK/GBR After COVID-19
 
