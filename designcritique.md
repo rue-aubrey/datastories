@@ -1,5 +1,10 @@
 # Graphic Redesign: Prison Policy Initiative
 
+[Home](https://ruesellers.github.io/datastories) <br>
+[Part I: Project Outline](https://ruesellers.github.io/datastories/projectpart1)<br>
+[Part II: Developing the Story](https://ruesellers.github.io/datastories/projectpart2)<br>
+[Part III: Final Deliverable](https://ruesellers.github.io/datastories/projectpart3)<br><br>
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11836508"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Original  Visualization
