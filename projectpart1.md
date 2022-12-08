@@ -1,9 +1,8 @@
 <b>[Home](https://ruesellers.github.io/datastories) </b><br> 
-# Part I: Project Outline
 [Part I: Project Outline](https://ruesellers.github.io/datastories/projectpart1)<br>
 [Part II: Developing the Story](https://ruesellers.github.io/datastories/projectpart2)<br>
 [Part III: Final Deliverable](https://ruesellers.github.io/datastories/projectpart3)<br>
-
+# Part I: Project Outline
 
 ## Summary
 For this project, I want to interrogate the events underpinning the increased sale of guns across the past few decades, emphasizing their intimate relationship with political violence and mass shootings.
