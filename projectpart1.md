@@ -1,7 +1,7 @@
 <b>[Home](https://ruesellers.github.io/datastories) </b><br> 
-[Part I: Project Outline](https://ruesellers.github.io/datastories/projectpart1)<br>
-[Part II: Developing the Story](https://ruesellers.github.io/datastories/projectpart2)<br>
-[Part III: Final Deliverable](https://ruesellers.github.io/datastories/projectpart3)<br>
+[Part I](https://ruesellers.github.io/datastories/projectpart1)<br>
+[Part II](https://ruesellers.github.io/datastories/projectpart2)<br>
+[Part III](https://ruesellers.github.io/datastories/projectpart3)<br>
 # Part I: Project Outline
 
 ## Summary
