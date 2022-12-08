@@ -1,4 +1,3 @@
-<b>[Home](https://ruesellers.github.io/datastories) </b><br> 
 [Part I](https://ruesellers.github.io/datastories/projectpart1)<br>
 [Part II](https://ruesellers.github.io/datastories/projectpart2)<br>
 [Part III](https://ruesellers.github.io/datastories/projectpart3)<br>
