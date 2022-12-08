@@ -1,4 +1,4 @@
-# Part I: Project Outine
+# Part I: Project Outline
 
 ## Summary
 For this project, I want to interrogate the events underpinning the increased sale of guns across the past few decades, emphasizing their intimate relationship with political violence and mass shootings.
