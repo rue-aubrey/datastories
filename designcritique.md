@@ -1,4 +1,4 @@
-<b>[Home](https://ruesellers.github.io/datastories) </b><br> 
+
 # Graphic Redesign: Prison Policy Initiative
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11836508"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
