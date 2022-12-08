@@ -2,7 +2,7 @@
 
 ## Final Project: [Guns Will Not Cure Your Fear](https://carnegiemellon.shorthandstories.com/guns-wont-cure-your-fear/index.html)
 
-## The Project Development Process:
+### The Project Development Process:
 - [Part 1: Project Outline](https://ruesellers.github.io/datastories/projectpart1)
 - [Part 2: Developing the Story](https://ruesellers.github.io/datastories/projectpart2)
 - [Part 3: Final Deliverable](https://ruesellers.github.io/datastories/projectpart3)
