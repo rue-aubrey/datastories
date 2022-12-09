@@ -57,7 +57,7 @@ Axios: [Deadliest Mass Shootings](https://www.axios.com/2017/12/15/deadliest-mas
 
 CNN: [2020 Gun Purchases](https://www.cnn.com/2021/06/04/us/us-gun-sales-surge/index.html)
 
-Time Magazine: [Social Trust During 2020](https://time.com/5929252/edelman-trust-barometer-2021/
+Time Magazine: [Social Trust During 2020](https://time.com/5929252/edelman-trust-barometer-2021)
 
 New York Times: [2020 in Review](https://www.nytimes.com/2020/08/30/us/politics/2020-year.html)
 
