@@ -8,6 +8,7 @@
 - [Part 3: Final Deliverable](https://ruesellers.github.io/datastories/projectpart3)
 
 ### Other Work
+- [PA Crime Data](https://ruesellers.github.io/datastories/pacrimedata.html)
 - [Graphic Redesign: Prison Policy Initiative](https://ruesellers.github.io/datastories/designcritique.html)
 - [Visualizing Government Debt](https://ruesellers.github.io/datastories/govdebt.html)
 - [Class Demos](https://ruesellers.github.io/datastories/demos.html)
