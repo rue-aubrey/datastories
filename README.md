@@ -1,4 +1,4 @@
-# Class Project Portfolio
+# Data Visualization Project Portfolio
 
 ### Final Project: [Guns Will Not Cure Your Fear](https://carnegiemellon.shorthandstories.com/guns-wont-cure-our-fears/index.html)
 
