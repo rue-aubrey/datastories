@@ -1,6 +1,6 @@
 # Class Project Portfolio
 
-### Final Project: [Guns Will Not Cure Your Fear](https://carnegiemellon.shorthandstories.com/guns-wont-cure-your-fear/index.html)
+### Final Project: [Guns Will Not Cure Your Fear](https://carnegiemellon.shorthandstories.com/guns-wont-cure-our-fears/index.html)
 
 #### The Project Development Process:
 - [Part 1: Project Outline](https://ruesellers.github.io/datastories/projectpart1)
