@@ -13,7 +13,8 @@
 - [Visualizing Government Debt](https://rue-aubrey.github.io/datastories/govdebt.html)
 - [Class Demos](https://rue-aubrey.github.io/datastories/demos.html)
 
-# About Me ###_(Updated May 2023)_
+# About Me 
+### _(Updated May 2023)_
 Hi, I'm Rue Aubrey _(she/her)_. I'm a 23 year old Masters student at Carnegie Mellon's Heinz College of Information Systems and Public Policy. I'm passionate about centering our policy frames on our local communities, prioritizing the needs of those who need most. 
 
 I'm currently working as a student researcher with Daniel Nagin, studying algorithmic bias in the criminal legal system. Off campus, I run marketing for a Pittsburgh mutual aid organization and collaborate with Pittsburgh's art scene. 
