@@ -1,7 +1,7 @@
 # Data Visualization Project Portfolio
 _(Last updated May 2023)_
 
-### Final Project: [Guns Will Not Cure Your Fear](https://carnegiemellon.shorthandstories.com/guns-wont-cure-our-fears/index.html)
+### Final Project: [Guns Won't Cure Our Fears](https://carnegiemellon.shorthandstories.com/guns-wont-cure-our-fears/index.html)
 
 #### The Project Development Process:
 - [Part 1: Project Outline](https://rue-aubrey.github.io/datastories/projectpart1)
